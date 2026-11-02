@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.bluebed.property/new-launches",
+  "title": "Singapore new launches",
+  "description": "Reviewed Singapore new-launch floor plans, area details and buyer rules. Trial.",
+  "version": "0.1.0",
+  "websiteUrl": "https://property.bluebed.ai/connect",
+  "repository": {
+    "url": "https://github.com/danielkoh/property-bluebed-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://property.bluebed.ai/mcp"
+    }
+  ]
+}
