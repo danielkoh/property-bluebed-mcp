@@ -43,7 +43,7 @@ More at https://property.bluebed.ai/connect
 
 ## Related
 
-- [sg-floorplan-skills](https://github.com/danielkoh/sg-floorplan-skills). The floor-plan tools we use on every plan. They measure rooms from the developer's drawing, check that furniture fits with room to walk past, show which walls are structural, and quote renovation rules from their official sources. Free to add to Claude or any assistant.
+- [sg-floorplan-skills](https://github.com/danielkoh/sg-floorplan-skills). The floor-plan tools we use on every plan. They measure rooms from the developer's drawing, check that furniture fits with room to walk past, show which walls are structural, and quote renovation rules from their official sources. Free to add to Claude or any assistant. It is early and not perfect, so corrections and pull requests are welcome.
 
 ---
 
